@@ -21,7 +21,7 @@ spec:
     image:
       registry: public.ecr.aws
       repository: bitnami/nginx
-      tag: 1.21.6
+      tag: 1.25.0
     service:
       type: LoadBalancer
       port: 80
